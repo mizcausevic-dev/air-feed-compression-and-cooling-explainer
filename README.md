@@ -4,6 +4,8 @@
 
 Live plate: https://mizcausevic-dev.github.io/air-feed-compression-and-cooling-explainer/
 
+Repository: https://github.com/mizcausevic-dev/air-feed-compression-and-cooling-explainer
+
 ## What this is
 
 An interactive anatomy plate for Air-Feed Compression and Cooling. Play, scrub, or jump the five stages. The same frame always draws the same picture.
